@@ -23,5 +23,13 @@ Goal 3: Good Health and well-being -  Obstacles and irresponsible drivers are on
 ![sdg11_banner](https://user-images.githubusercontent.com/103044343/172385308-4f4e0570-2b23-4c5c-b19a-deccabb99c8c.png)
 Goal 11: Sustainable Cities and Communities - Knowing and following the traffic rules in our area can help us avoid getting into a car accident and avoid the pain and cost of a traffic ticket for a violation.
 ## Recommendation
+  The roads in Metro Manila are becoming increasingly congested, with a large number of motorized vehicles and pedestrians sharing the road. The interaction of motorized and non motorized road users does not end well, resulting in debilitating and expensive traffic injuries. 
+  To reduce the number of road accidents in Metro Manila the researchers recommend the following:
+1. Evaluate and assess the environmental effects of changes in the road system, traffic volume, vehicle mix, structure modifications, and network adjustments must be monitored. Monitoring data could then be used to assess previous assessments and, in the long run, improve understanding of ecological impacts.
+2. The Land Transportation Franchising and Regulatory Board (LTFRB)  can increase the existing penalties for violators. 
+3. Traffic enforcers are visible on major roads and highways, and traffic rules and regulations are strictly enforced. 
+4. Strongly advised that before the The Land Transportation Franchising and Regulatory Board (LTFRB)  will issue a student license, the applicant must attend a mandatory seminar and training on road safety and traffic rules. 
+5. Select a government agency to oversee the national highway safety program and create a nationwide model for road safety.
+
 ## References
 You may take a look for the references that are relevant to our project in [Analysis of Road Traffic Accident in Metro Manila.docx](https://github.com/VivianAlvarez/Team-RTA/files/8681955/Analysis.of.Road.Traffic.Accident.in.Metro.Manila.docx)
