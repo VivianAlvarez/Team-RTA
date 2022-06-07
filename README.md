@@ -4,6 +4,9 @@ In large cities with numerous modes of transportation, accidents are common, and
 ## Problem Statement
 Road traffic accidents are a big problem nowadays. Drivers paying less attention to various site routing signage on the road, as well as a lack of awareness of road traffic accidents, which causes harm to life and other vehicle properties. The state of Metro Manila's roadways has deteriorated significantly in recent years due to a variety of factors. Increased vehicle numbers, as well as a lack of sufficient road safety, are all contributing factors. In addition, interventions and a lack of enforcement legislation are only a few instances. Over speeding kills or injures a high number of persons on the road when drivers disregard the speed limit and drive too fast. Some drivers use their cellphones while driving, diverting their focus away from the road.
 ## Objectives
+1. To study the causes of accidents and propose solutions at a location.
+2. To increase and improve the effectiveness of road safety in Metro Manila. 
+3. To provide factors responsible for the traffic operator's suggested enhancement and to support the proposed plan. 
 ## Significance of the Proposed Project
 This research will specifically benefit the following:
 
