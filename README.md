@@ -6,7 +6,7 @@ Road traffic accidents are a big problem nowadays. Drivers paying less attention
 ## Objectives
 1. To study the causes of accidents and propose solutions at a location.
 2. To increase and improve the effectiveness of road safety in Metro Manila. 
-3. To carry out before and after studies and to demonstrate the improvement in the problem.
+3. To provide factors responsible for the traffic operator's suggested enhancement and to support the proposed plan. 
 ## Significance of the Proposed Project
 This research will specifically benefit the following:
 
