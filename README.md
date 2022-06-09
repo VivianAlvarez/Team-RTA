@@ -34,6 +34,12 @@ Goal 11: Sustainable Cities and Communities - Knowing and following the traffic 
 4. Strongly advised that before the The Land Transportation Franchising and Regulatory Board (LTFRB)  will issue a student license, the applicant must attend a mandatory seminar and training on road safety and traffic rules. 
 5. Select a government agency to oversee the national highway safety program and create a nationwide model for road safety.
 
+## Live Recorded Presentation
+https://drive.google.com/file/d/12kRwSsHGSFpYUbDkufuMevbIe_L99AcJ/view?usp=sharing
+
+## Final Recorded Presentation
+https://drive.google.com/file/d/1mpFG8cHV8GSvOy0gxifN-eQpab4PFnka/view?usp=sharing
+
 ## References
 Automology. (2020, October 9). Top Causes of Road Accidents in the Philippines. Retrieved April 11, 2022, from https://www.automology.com/top-causes-of-road-accidents-in-the-philippines/
 
@@ -72,5 +78,4 @@ Road traffic injuries. (2021, June 21). World Health Organization. https://www.w
 
 TORTUM, A. and ATALAY, A., 2015. Spatial analysis of road mortality rates in Turkey, Proceedings of the Institution of Civil Engineers-Transport 168(6), Thomas Telford Ltd, pp. 532-542. Available from: SSRN: https://www.icevirtuallibrary.com/doi/abs/10.1680/jtran.14.00029
 
-## Live Recorded Presentation
-https://drive.google.com/file/d/12kRwSsHGSFpYUbDkufuMevbIe_L99AcJ/view?usp=sharing
+
