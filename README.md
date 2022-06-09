@@ -73,4 +73,4 @@ Road traffic injuries. (2021, June 21). World Health Organization. https://www.w
 TORTUM, A. and ATALAY, A., 2015. Spatial analysis of road mortality rates in Turkey, Proceedings of the Institution of Civil Engineers-Transport 168(6), Thomas Telford Ltd, pp. 532-542. Available from: SSRN: https://www.icevirtuallibrary.com/doi/abs/10.1680/jtran.14.00029
 
 ## Live Recorded Presentation
-https://drive.google.com/file/d/10kKlYk2jB3f1yvzUfYKm7Liop_liMsNB/view?usp=sharing
+https://drive.google.com/file/d/12kRwSsHGSFpYUbDkufuMevbIe_L99AcJ/view?usp=sharing
