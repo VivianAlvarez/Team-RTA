@@ -35,21 +35,13 @@ Goal 11: Sustainable Cities and Communities - Knowing and following the traffic 
 5. Select a government agency to oversee the national highway safety program and create a nationwide model for road safety.
 
 ## Live Recorded Presentation
-https://drive.google.com/file/d/12kRwSsHGSFpYUbDkufuMevbIe_L99AcJ/view?usp=sharing
+https://youtu.be/x9cYb_J0zZg
 
 ## Final Recorded Presentation
-https://drive.google.com/file/d/1mpFG8cHV8GSvOy0gxifN-eQpab4PFnka/view?usp=sharing
+https://youtu.be/xuX3F8isQ_M
 
 ## References
 Automology. (2020, October 9). Top Causes of Road Accidents in the Philippines. Retrieved April 11, 2022, from https://www.automology.com/top-causes-of-road-accidents-in-the-philippines/
-
- 
-
-
-
-
-
-  
 
 Brotoisworo, P. (2020, September 8). Manila Traffic Incident Data. Retrieved April 1, 2022, from https://www.kaggle.com/datasets/esparko/mmda-traffic-incident-data
 
